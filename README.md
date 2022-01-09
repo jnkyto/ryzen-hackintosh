@@ -13,3 +13,5 @@ System serial and UUID omitted for obvious reasons.
 
 Config may not be perfect, but I've not had any issues.
 This is NOT a guide. For that, check https://dortania.github.io/
+
+<img src="https://raw.githubusercontent.com/jnkyto/ryzen-hackintosh/main/mont-12.1.jpg" alt="Screenshot of my About This Mac and Neofetch">
